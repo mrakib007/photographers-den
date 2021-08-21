@@ -1,0 +1,11 @@
+body{
+    /* background-color: #bdc3c7; */
+    /* background-color: ghostwhite; */
+    background-color: #7befb2;
+}
+.main{
+    height: 600px;
+}
+.photo-radius{
+    border-radius: 10%;
+}
